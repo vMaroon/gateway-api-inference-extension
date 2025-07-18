@@ -18,5 +18,5 @@ package version
 
 const (
 	// BundleVersion is the value used for labeling the version of the gateway-api-inference-extension.
-	BundleVersion = "v0.5.0-rc.2"
+	BundleVersion = "v0.5.0-rc.3"
 )
